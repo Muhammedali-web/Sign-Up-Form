@@ -1,0 +1,55 @@
+.top {
+    text-align: center
+
+}
+ h1 {
+    font-size: 40px;
+    color:deepskyblue
+ }
+
+ input {
+    width: 250px;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+    border: none;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.253);
+}
+
+.radio {
+    box-shadow: none;
+    width: auto;
+}
+
+.remember {
+    text-align: start;
+    padding-left: 630
+    px;
+}
+.social {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    margin: 0 auto;
+}
+
+
+ button {
+    width: 250px;
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    background-color: deepskyblue;
+    color: white;
+    font-size: 18px;
+    margin-top: 50px;
+ }
+ .text {
+    color: deepskyblue;
+    margin-top: 25px;
+ }
+
+
+ body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
